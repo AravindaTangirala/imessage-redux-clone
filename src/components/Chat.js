@@ -47,7 +47,6 @@ function Chat() {
   };
   return (
     <div className="chat">
-      {/* Chat Header */}
       <div className="chat__header">
         <h4>
           To:<span className="chat__name">{chatName}</span>{" "}
